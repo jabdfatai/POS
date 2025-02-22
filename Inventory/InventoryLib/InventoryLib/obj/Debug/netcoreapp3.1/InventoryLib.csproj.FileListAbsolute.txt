@@ -1,0 +1,10 @@
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\bin\Debug\netcoreapp3.1\InventoryLib.deps.json
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\bin\Debug\netcoreapp3.1\InventoryLib.dll
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\bin\Debug\netcoreapp3.1\InventoryLib.pdb
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\netcoreapp3.1\InventoryLib.csproj.AssemblyReference.cache
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\netcoreapp3.1\InventoryLib.AssemblyInfoInputs.cache
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\netcoreapp3.1\InventoryLib.AssemblyInfo.cs
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\netcoreapp3.1\InventoryLib.csproj.CoreCompileInputs.cache
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\netcoreapp3.1\InventoryLib.dll
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\netcoreapp3.1\InventoryLib.pdb
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\netcoreapp3.1\InventoryLib.GeneratedMSBuildEditorConfig.editorconfig

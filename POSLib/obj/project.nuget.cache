@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ngZsNQF7eddvWLRKUJwmul1aWvMnNNkKgk/ZunH2u8gfQuj43MIKjOHWpqSIqA2lwGJAfUumX36JV7phvyEq6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JideAbdfatai\\Desktop\\POS\\POSLib\\POSLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Nuget\\microsoft.bcl.asyncinterfaces\\9.0.0\\microsoft.bcl.asyncinterfaces.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\bin\Debug\net8.0\InventoryLib.deps.json
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\bin\Debug\net8.0\InventoryLib.dll
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\bin\Debug\net8.0\InventoryLib.pdb
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\bin\Debug\net8.0\Common.dll
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\bin\Debug\net8.0\Common.pdb
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\net8.0\InventoryLib.csproj.AssemblyReference.cache
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\net8.0\InventoryLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\net8.0\InventoryLib.AssemblyInfoInputs.cache
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\net8.0\InventoryLib.AssemblyInfo.cs
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\net8.0\InventoryLib.csproj.CoreCompileInputs.cache
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\net8.0\Inventor.63A58ECA.Up2Date
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\net8.0\InventoryLib.dll
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\net8.0\refint\InventoryLib.dll
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\net8.0\InventoryLib.pdb
+C:\Users\JideAbdfatai\Desktop\POS\Inventory\InventoryLib\InventoryLib\obj\Debug\net8.0\ref\InventoryLib.dll

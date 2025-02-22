@@ -1,0 +1,15 @@
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\bin\Debug\net8.0\OrderFulfillmentLib.deps.json
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\bin\Debug\net8.0\OrderFulfillmentLib.dll
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\bin\Debug\net8.0\OrderFulfillmentLib.pdb
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\bin\Debug\net8.0\Common.dll
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\bin\Debug\net8.0\Common.pdb
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\obj\Debug\net8.0\OrderFulfillmentLib.csproj.AssemblyReference.cache
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\obj\Debug\net8.0\OrderFulfillmentLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\obj\Debug\net8.0\OrderFulfillmentLib.AssemblyInfoInputs.cache
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\obj\Debug\net8.0\OrderFulfillmentLib.AssemblyInfo.cs
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\obj\Debug\net8.0\OrderFulfillmentLib.csproj.CoreCompileInputs.cache
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\obj\Debug\net8.0\OrderFul.5D713B3A.Up2Date
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\obj\Debug\net8.0\OrderFulfillmentLib.dll
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\obj\Debug\net8.0\refint\OrderFulfillmentLib.dll
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\obj\Debug\net8.0\OrderFulfillmentLib.pdb
+C:\Users\JideAbdfatai\Desktop\POS\OrderFulfillmentLib\obj\Debug\net8.0\ref\OrderFulfillmentLib.dll

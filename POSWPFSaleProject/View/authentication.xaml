@@ -1,0 +1,152 @@
+﻿<Window x:Class="POSWPFSaleProject.View.authentication"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:POSWPFSaleProject.View"
+        mc:Ignorable="d"
+        Title="authentication"  Height="750" Width="800" WindowStyle="None" 
+        WindowStartupLocation="CenterScreen" 
+        MouseDown="Window_MouseDown" 
+        Background="Transparent"
+        AllowsTransparency="True">
+
+    <Window.Resources>
+        
+    </Window.Resources>
+    <Border CornerRadius="10">
+        <Border.Background>
+            <ImageBrush  ImageSource="C:\Users\JideAbdfatai\Downloads\beautiful-rendering-steel-object.jpg" />
+        </Border.Background>
+        <Border CornerRadius="5"           
+         BorderThickness="5" Opacity="0.7">
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0"  EndPoint="1,1">
+                    <GradientStop Color="Blue" Offset="0"></GradientStop>
+                    <GradientStop Color="Aqua"  Offset="0.75"></GradientStop>
+                    <GradientStop Color="Beige"  Offset="1"></GradientStop>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+
+            <Border.Background>
+
+                <LinearGradientBrush StartPoint="0,0"  EndPoint="1,1">
+                    <GradientStop Color="Blue" Offset="0"></GradientStop>
+                    <GradientStop Color="Aqua"  Offset="0.75"></GradientStop>
+                    <GradientStop Color="Beige"  Offset="1"></GradientStop>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40">
+
+                    </RowDefinition>
+                    <RowDefinition>
+
+                    </RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" Margin="0,10,0,10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition>
+                        </ColumnDefinition>
+                        <ColumnDefinition Width="25">
+                        </ColumnDefinition>
+                        <ColumnDefinition Width="25">
+                        </ColumnDefinition>
+                        <ColumnDefinition Width="5">
+                        </ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="LOG IN" 
+                               Grid.Column="0"
+                               Foreground="White" 
+                               VerticalAlignment="Center" 
+                               FontSize="10"
+                               Margin="10,0,0,0">
+
+                    </TextBlock>
+                    <Button x:Name="btnminimize" Click="btnminimize_Click" 
+                         BorderThickness="5" 
+                         Background="Beige"
+                         Foreground="White"
+                         Height="20"
+                         Width="20"
+                         FontFamily="Montserrat" 
+                         FontSize="25"
+                         Cursor="Hand" 
+                         Content="-"
+                         Grid.Column="1">
+                    </Button>
+
+                    <Button x:Name="btnclose" Click="btnclose_Click"
+                    BorderThickness="5" 
+                    Background="Azure" Width="25"
+                    Foreground="White" FontFamily="Montserrat" 
+                    FontSize="20"
+                    Cursor="Hand" Content="X"
+                    Grid.Column="2">
+
+                    </Button>
+
+                </Grid>
+                <StackPanel Grid.Row="1" Width="350" Margin="0,35,0,0">
+                    <Image Source="C:\Users\JideAbdfatai\Downloads\ic_notification.png" Width="100" Height="100"></Image>
+                    <TextBlock Text="AJ Solutions"
+                               Margin="5,20,5,30"
+                               Foreground="White" FontFamily="montserrat" FontSize="25" FontWeight="Medium" TextWrapping="Wrap" 
+                         HorizontalAlignment="Center"
+                               TextAlignment="Center"></TextBlock>
+
+
+
+                    <TextBlock Text=" Cutting Edge Point of Sale Solution" Margin="5,20,5,30" Foreground="White" FontFamily="montserrat" FontSize="25" FontWeight="Medium" TextWrapping="Wrap" 
+                               HorizontalAlignment="Center" TextAlignment="Center"></TextBlock>
+                    <TextBlock Text="Username" 
+                     Foreground="White"
+                        Margin="0,35,0,0" FontFamily="MontSerrat" FontWeight="Medium" FontSize="12"></TextBlock>
+                    <TextBox x:Name="txtusername" 
+                             Background="Transparent"
+                             Foreground="White"
+                             BorderBrush="White"
+                             CaretBrush="DarkGray"
+                             BorderThickness="0,0,0,1" Height="28" Margin="0,5,0,0"></TextBox>
+
+                    <TextBlock Text="Password" Foreground="White"></TextBlock>
+                    <PasswordBox x:Name="txtpassword"  Background="Transparent"
+                     Foreground="White"
+                     BorderBrush="White"
+                     CaretBrush="DarkGray"
+                     BorderThickness="0,0,0,1" Height="28" Margin="0,5,0,0"></PasswordBox>
+
+                    <Button x:Name="btnsave"
+                            Content="Enter"
+                            Click="btnsave_Click"
+                            Margin="0,30,0,0">
+                        <Button.Style>
+
+                            <Style TargetType="Button">
+                                <Setter Property="Height" Value="30"></Setter>
+                                <Setter Property="Width"  Value="60"></Setter>
+                                <Setter Property="Foreground" Value="White"></Setter>
+                                <Setter Property="FontSize" Value="15"></Setter>
+                                <Setter Property="Background" Value="DarkSlateBlue"></Setter>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="DarkCyan"></Setter>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border Background="{TemplateBinding Background}" CornerRadius="10">
+                                    <ContentPresenter HorizontalAlignment="Center"
+                                     VerticalAlignment="Center"></ContentPresenter>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Border>
+</Window>

@@ -1,0 +1,19 @@
+﻿using Common.Model;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace InventoryLib.Model
+{
+    public class Prod_Cat : CommonFields
+    {
+        [Required]
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int id { get; set; }
+        [Required]
+        public string descr { get; set; }
+        public string prod_form { get; set; }
+
+    }
+ 
+}
